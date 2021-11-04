@@ -1,0 +1,28 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "start": "node server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "mysql2": "^2.2.5",
+    "server": "^1.0.36"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tra8brown/just-tech-news.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tra8brown/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/tra8brown/just-tech-news#readme"
+}
